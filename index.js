@@ -6,3 +6,7 @@ if (val > 10) {
 }
 
 console.log("how are you doing?");
+
+if (true) {
+  console.log("When?");
+}
