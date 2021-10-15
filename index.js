@@ -4,3 +4,5 @@ if (val > 10) {
 } else if (val < 5) {
   console.log("smaller than 5");
 }
+
+console.log("how are you doing?");
